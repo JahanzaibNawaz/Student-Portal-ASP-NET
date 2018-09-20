@@ -1,0 +1,22 @@
+D:\PROGRAMMING\ASP NET WORK\ASP Project\Student Portal\Student Portal\bin\Student Portal.dll.config
+D:\PROGRAMMING\ASP NET WORK\ASP Project\Student Portal\Student Portal\bin\Student Portal.dll
+D:\PROGRAMMING\ASP NET WORK\ASP Project\Student Portal\Student Portal\bin\Student Portal.pdb
+D:\PROGRAMMING\ASP NET WORK\ASP Project\Student Portal\Student Portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROGRAMMING\ASP NET WORK\ASP Project\Student Portal\Student Portal\bin\Microsoft.Web.Infrastructure.dll
+D:\PROGRAMMING\ASP NET WORK\ASP Project\Student Portal\Student Portal\bin\System.Web.Helpers.dll
+D:\PROGRAMMING\ASP NET WORK\ASP Project\Student Portal\Student Portal\bin\System.Web.Mvc.dll
+D:\PROGRAMMING\ASP NET WORK\ASP Project\Student Portal\Student Portal\bin\System.Web.Razor.dll
+D:\PROGRAMMING\ASP NET WORK\ASP Project\Student Portal\Student Portal\bin\System.Web.Webpages.Deployment.dll
+D:\PROGRAMMING\ASP NET WORK\ASP Project\Student Portal\Student Portal\bin\System.Web.Webpages.dll
+D:\PROGRAMMING\ASP NET WORK\ASP Project\Student Portal\Student Portal\bin\System.Web.Webpages.Razor.dll
+D:\PROGRAMMING\ASP NET WORK\ASP Project\Student Portal\Student Portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROGRAMMING\ASP NET WORK\ASP Project\Student Portal\Student Portal\bin\System.Web.Razor.xml
+D:\PROGRAMMING\ASP NET WORK\ASP Project\Student Portal\Student Portal\bin\System.Web.Webpages.xml
+D:\PROGRAMMING\ASP NET WORK\ASP Project\Student Portal\Student Portal\bin\System.Web.Webpages.Deployment.xml
+D:\PROGRAMMING\ASP NET WORK\ASP Project\Student Portal\Student Portal\bin\System.Web.Webpages.Razor.xml
+D:\PROGRAMMING\ASP NET WORK\ASP Project\Student Portal\Student Portal\bin\System.Web.Helpers.xml
+D:\PROGRAMMING\ASP NET WORK\ASP Project\Student Portal\Student Portal\bin\System.Web.Mvc.xml
+D:\PROGRAMMING\ASP NET WORK\ASP Project\Student Portal\Student Portal\obj\Debug\Student Portal.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\ASP NET WORK\ASP Project\Student Portal\Student Portal\obj\Debug\Student Portal.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\ASP NET WORK\ASP Project\Student Portal\Student Portal\obj\Debug\Student Portal.dll
+D:\PROGRAMMING\ASP NET WORK\ASP Project\Student Portal\Student Portal\obj\Debug\Student Portal.pdb
